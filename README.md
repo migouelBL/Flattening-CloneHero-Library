@@ -1,4 +1,4 @@
-# Flattening-CloneHero-Librarys
+# Flattening-CloneHero-Library
 By Migouel
 
 A small python script that flatten your Clone Hero library to a single level directory
